@@ -1,4 +1,4 @@
-实验3结果
+实验II结果
 ---------------------------  -----  -----  -----  -----  -----  -----  ---------
 Run                          IOU    SAcc   RAcc   Sprec  Rprec  F1     #-Objects
 0-cubicle_clio_primitives    0.055  0.222  0.5    0.115  0.149  0.23   267
