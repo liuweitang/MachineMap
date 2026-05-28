@@ -46,7 +46,7 @@ If you use Our Method in your research, please cite both the original Clio work 
 }
 ```
 
-> ⚠️ **Note**: After paper acceptance, the complete cleaned code, full experimental scripts, and detailed reproduction instructions will be released. For inquiries, please open an issue or contact the authors.
+> ⚠️ **Note**: After paper acceptance, the complete code and detailed reproduction instructions will be released. For inquiries, please open an issue or contact the authors.
 
 ---
 
