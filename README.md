@@ -4,7 +4,7 @@
 
 **Our Method** is a **temporal-spatial-semantic consistent task-driven 3D Scene Graph (3DSG) construction framework** that extends [Clio](https://github.com/MIT-SPARK/clio) (Maggio et al., ICRA 2024) from a cartography-robotics interdisciplinary perspective. Inspired by thematic cartography principles, this framework addresses the fundamental limitation of existing task-driven mapping methods that rely solely on single-dimensional (semantic) similarity, by jointly modeling **time, space, and semantics** — the three essential dimensions of geographic phenomena — for robust online incremental mapping.
 
-> **Paper Status**: This work is currently in submission status. The complete cleaned code, full experimental scripts,and detailed reproduction instructions will be released upon paper acceptance. Stay tuned!
+> **Paper Status**: This work is currently in submission status. The complete code and detailed reproduction instructions will be released upon paper acceptance. Stay tuned!
 
 ---
 
@@ -29,15 +29,7 @@ The datasets used in our experiments are available for download:
 
 > **Download Link**: [https://www.dropbox.com/scl/fo/5bkv8rsa2xvwmvom6bmza/AOc8VW71kuZCgQjcw_REbWA?rlkey=wx1njghufcxconm1znidc1hgw&st=c809h8h3&dl=0](https://www.dropbox.com/scl/fo/5bkv8rsa2xvwmvom6bmza/AOc8VW71kuZCgQjcw_REbWA?rlkey=wx1njghufcxconm1znidc1hgw&st=c809h8h3&dl=0)
 
-The datasets include synchronized RGB-D streams with pose and timestamp annotations across three real-world indoor environments:
-
-| Dataset | Description | Scale |
-|---------|-------------|-------|
-| **Office** | Multi-room office layout with diverse furniture and equipment | Medium-large |
-| **Apartment** | Residential environment with diverse object categories across multiple rooms | Medium |
-| **Cubicle** | Office cubicle setting with repetitive structures and close-proximity objects | Small |
-
-Each dataset provides manually annotated 3D bounding boxes as ground truth for task-relevant objects.
+The datasets include synchronized RGB-D streams with pose and timestamp annotations across three real-world indoor environments，Each dataset provides manually annotated 3D bounding boxes as ground truth for task-relevant objects.
 
 ---
 
